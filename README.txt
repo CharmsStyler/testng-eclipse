@@ -1,7 +1,8 @@
 User
 ===
 
-The documentation for this plug-in can be found at http://testng.org/doc/eclipse.html
+This plugin enable Xtend files to be executed via TestNg Run/Debug as 
+The documentation for this plug-in can be found at http://testng.org/doc/eclipse.
 
 
 Developer
